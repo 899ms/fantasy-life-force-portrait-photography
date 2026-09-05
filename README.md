@@ -4,7 +4,7 @@
 
 围绕人物状态、事件、亲密镜头和光色关系，升级生活照或构建原创电影化人像。
 
-**[快速开始](#start)** · **[下载与安装](#install)** · **[完整规则](SKILL.md)** · **[全部视觉 Skills](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3/blob/main/docs/FANTASY-COLLECTION.md)**
+**[快速开始](#start)** · **[下载与安装](#install)** · **[完整规则](SKILL.md)** · **[全部视觉 Skills](https://github.com/dacnay816y62-hub?tab=repositories)**
 
 | 视觉示例 01 | 视觉示例 02 |
 | :---: | :---: |
@@ -292,4 +292,4 @@ AI 生成照片时，到底应该先生成「好看」，还是先生成「活�
 
 **让想象先被看见。** 将视觉判断与创作流程整理成可以继续使用的方法。
 
-**[浏览全部视觉 Skills](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3/blob/main/docs/FANTASY-COLLECTION.md)** · [Character Casting Studio](https://github.com/dacnay816y62-hub/character-casting-studio-skill) · [Street Photo Illustration](https://github.com/dacnay816y62-hub/street-photo-illustration-skill)
+**[浏览全部视觉 Skills](https://github.com/dacnay816y62-hub?tab=repositories)** · [Character Casting Studio](https://github.com/dacnay816y62-hub/character-casting-studio-skill) · [Street Photo Illustration](https://github.com/dacnay816y62-hub/street-photo-illustration-skill)
